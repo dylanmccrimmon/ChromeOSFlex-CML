@@ -1,6 +1,6 @@
 # ChromeOSFlex-CML
 
-**Last updated**: 2025-06-28
+**Last updated**: June 30th, 2025
 **Source dataset**: https://support.google.com/chromeosflex/answer/11513094
 
 This project aims to provide a machine‑readable list so scripts and services can programmatically check if a device supports ChromeOS Flex. It is **not** affiliated with Google and is maintained **manually** by contributors.
